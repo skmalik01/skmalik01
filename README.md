@@ -1,19 +1,23 @@
 # 💫 About Me:
-👋 Hi, I’m Malik Shaikh — a passionate **Python Developer** with expertise in building **full-stack web applications**.  
+👋 Hi, I’m **Malik Shaikh** — a passionate **Python Full-Stack Developer**.  
 🎓 I have completed **Python Full Stack Development** and hold a **Bachelor’s degree in Computer Science**.  
-🚀 Skilled in designing robust backends using **Django** & **Flask**, deploying on **AWS**, containerizing with **Docker**, and implementing **OAuth, JWT authentication, and secure database integrations**.  
-🔄 Experienced in **Agile methodologies**, I thrive in collaborative environments to deliver scalable, production-ready solutions.  
-💡 Always eager to learn, adapt, and craft impactful software.  
+
+🚀 I specialize in building **scalable web applications** using **Django, Flask, and FastAPI**, integrating secure **OAuth2.0 / JWT authentication**, and designing **robust databases** (MySQL, PostgreSQL, SQLite).  
+☁️ Skilled in **AWS cloud deployment** and **Docker containerization**, ensuring smooth CI/CD workflows.  
+🔄 Hands-on experience working in **Agile environments**, delivering high-quality software with active collaboration.  
+💼 I have worked on **live production projects**, raised & resolved multiple **PRs (pull requests)**, and actively contributed to improving system performance and security.  
+💡 I thrive on solving real-world challenges through clean, maintainable, and impactful code.  
 
 ---
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/malik-shaikh-6bab47312)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malikshaikh0105@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/malik-shaikh-6bab47312)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malikshaikh0105@gmail.com)  
 
 ---
 
 # 💻 Tech Stack:
+
 **Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
@@ -36,7 +40,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
-**Other**  
+**Other Expertise**  
+![OAuth2.0](https://img.shields.io/badge/OAuth2.0-%23000000.svg?style=for-the-badge&logo=oauth&logoColor=white) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
 ![Jinja](https://img.shields.io/badge/jinja-B41717.svg?style=for-the-badge&logo=jinja&logoColor=white) 
 ![Agile](https://img.shields.io/badge/Agile-%23007396.svg?style=for-the-badge&logo=scrumalliance&logoColor=white)  
@@ -44,9 +49,9 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=skmalik01&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=skmalik01&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=skmalik01&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=skmalik01&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=skmalik01&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -58,4 +63,4 @@
 [![](https://visitcount.itsvg.in/api?id=skmalik01&icon=0&color=6)](https://visitcount.itsvg.in)
 
 ---
-💡 *"Code is like humor. When you have to explain it, it’s bad."*  
+💡 *"Clean code always looks like it was written by someone who cares."*  
