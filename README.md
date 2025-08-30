@@ -2,7 +2,7 @@
 👋 Hi, I’m **Malik Shaikh** — a passionate **Python Full-Stack Developer**.  
 🎓 I have completed **Python Full Stack Development** and hold a **Bachelor’s degree in Computer Science**.  
 
-🚀 I specialize in building **scalable web applications** using **Django, Flask, and FastAPI**, integrating secure **OAuth2.0 / JWT authentication**, and designing **robust databases** (MySQL, PostgreSQL, SQLite).  
+🚀 I Specialize in building **scalable web applications** using **Django, Flask, and FastAPI**, integrating secure **OAuth2.0 / JWT authentication**, and designing **robust databases** (MySQL, PostgreSQL, SQLite).  
 ☁️ Skilled in **AWS cloud deployment** and **Docker containerization**, ensuring smooth CI/CD workflows.  
 🔄 Hands-on experience working in **Agile environments**, delivering high-quality software with active collaboration.  
 💼 I have worked on **live production projects**, raised & resolved multiple **PRs (pull requests)**, and actively contributed to improving system performance and security.  
@@ -58,10 +58,6 @@
 
 ## 📈 Contribution Graph
 [![Malik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=skmalik01&theme=react-dark)](https://github.com/skmalik01)
-
-
-## 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=skmalik01&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
 
 ## 🏆 GitHub Trophies
