@@ -56,6 +56,14 @@
 
 ---
 
+## 📈 Contribution Graph
+[![Malik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=skmalik01&theme=react-dark)](https://github.com/skmalik01)
+
+
+## 🔥 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=skmalik01&theme=dark&hide_border=false)](https://git.io/streak-stats)
+
+
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=skmalik01&theme=radical&no-frame=true&no-bg=false&margin-w=15" />
