@@ -57,7 +57,9 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=skmalik01&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=skmalik01&theme=radical&no-frame=true&no-bg=false&margin-w=15" />
+</p>
 
 ---
 
