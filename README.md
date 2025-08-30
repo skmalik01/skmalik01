@@ -13,6 +13,7 @@
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/malik-shaikh-6bab47312)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malikshaikh0105@gmail.com)  
+📧 Reach me at: [malikshaikh0105@gmail.com](mailto:malikshaikh0105@gmail.com) 
 
 ---
 
@@ -56,7 +57,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=skmalik01&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=skmalik01&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
